@@ -14,7 +14,7 @@
 
 ## 📸 Скриншот
 
-(screenshot/calculator-demo.png)
+![Скриншот](screenshot/calculator-demo.png)
 
 ## ✨ Особенности
 
