@@ -2,7 +2,7 @@
 
 Простой, элегантный и функциональный калькулятор с графическим интерфейсом, разработанный на Python с использованием библиотеки Tkinter. Приложение выполнено в минималистичном стиле со светлой темой и крупными кнопками для удобного использования.
 
-![Python Version](https://img.shields.io/badge/python-3.7+-blue.svg)
+![Python Version](https://img.shields.io/badge/python-3.14-blue.svg)
 ![Tkinter](https://img.shields.io/badge/tkinter-standard-green.svg)
 
 ## Возможности
@@ -27,6 +27,6 @@
 
 ## 🚀 Технологии
 
-- **Python 3.7+** — язык программирования
+- **Python 3.14** — язык программирования
 - **CustomTkinter** — современная библиотека Python для создания GUI
 
